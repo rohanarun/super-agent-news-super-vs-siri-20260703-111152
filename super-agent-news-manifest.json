@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[thehindu.com](https://www.thehindu.com/sci-tech/technology/metas-zuckerberg-says-ai-agent-tech-progressing-slower-than-expected/article71177205.ece)",
+    "[mindstudio.ai](https://www.mindstudio.ai/blog/ai-context-war-siri-claude-tag-codex)",
+    "[startuphub.ai](https://www.startuphub.ai/ai-news/artificial-intelligence/2026/siri-ai-efforts-lagging-chatbot-competitors-says-report)",
+    "[memeburn.com](https://memeburn.com/2026/06/google-gives-gemini-3-5-flash-computer-use-for-ai-agents/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)"
+  ],
+  "design_plan": "rng_seed=42; hero_math=maxWidth1120->2.3lines; AIDA_pass=True; density_check=grid-auto-flow:dense present; label_sweep=all competitors mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-07-03T11:11:58.971343+00:00",
+  "headline": "Super vs Siri \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "Siri is a powerful, voice\u2011first assistant deeply embedded in Apple devices and personal context. Super is built for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer\u2011use cache so repeated workflows get faster and cheaper over time. This page fairly explains what Siri is great at today, where it stops, and why Super is the sharper alternative for durable computer\u2011use automation."
+}
